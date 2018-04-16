@@ -1,1 +1,5 @@
-# C-G-r-nt-i-leme
+# C# Görüntü İşleme Editörü
+
+Ekran Görüntüsü
+
+image::image.jpg[ss]
